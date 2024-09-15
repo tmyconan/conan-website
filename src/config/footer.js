@@ -1,22 +1,22 @@
 export const footerSocials = [
   {
     name: 'Twitter',
-    url: 'https://twitter.com/littlesticksdev',
+    url: 'https://x.com/tmyconan',
     icon: "mdi:twitter",
   },
   {
-    name: 'Youtube',
-    url: 'https://youtube.com/c/LittleSticks',
-    icon: "mdi:youtube",
+    name: 'Instagram',
+    url: 'https://www.instagram.com/tmyconan/',
+    icon: "mdi:instagram",
   },
   {
     name: 'Github',
-    url: 'https://github.com/littlesticks',
+    url: 'https://github.com',
     icon: "mdi:github",
   },
   {
-    name: 'Discord',
-    url: 'https://littlesticks.dev/discord',
+    name: 'LinkedIn',
+    url: 'https://www.linkedin.com/in/conan-tan-818b89200/',
     icon: "ic:baseline-discord",
   },
 ]

@@ -28,4 +28,4 @@ export const instagramIcon = `<svg width="24" height="24" viewBox="0 0 24 24" fi
 <rect width="20" height="19.9998" fill="white" transform="translate(2 2)"/>
 </clipPath>
 </defs>
-</svg>`
+</svg>`file:///Users/conan/Desktop/instagram-logo-thin.svg
